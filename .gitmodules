@@ -1,0 +1,3 @@
+[submodule "data-science-bootcamp"]
+	path = data-science-bootcamp
+	url = https://github.com/WoMakersCode/data-science-bootcamp.git
